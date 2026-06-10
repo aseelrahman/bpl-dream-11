@@ -6,7 +6,7 @@
     "rating": 95,
     "battingStyle": "Right-hand Bat",
     "ballingStyle": "Right-arm Medium",
-    "price": 1500000,
+    "price": 15000,
     "playerImg": "https://i.ibb.co/zh6rFvYL/images.webp"
   },
   {
@@ -16,7 +16,7 @@
     "rating": 93,
     "battingStyle": "Right-hand Bat",
     "ballingStyle": "Right-arm Off Break",
-    "price": 1400000,
+    "price": 14000,
     "playerImg": "https://i.ibb.co/zh6rFvYL/images.webp"
   },
   {
@@ -26,7 +26,7 @@
     "rating": 91,
     "battingStyle": "Left-hand Bat",
     "ballingStyle": "Right-arm Fast Medium",
-    "price": 1600000,
+    "price": 16000,
     "playerImg": "https://i.ibb.co/zh6rFvYL/images.webp"
   },
   {
@@ -36,7 +36,7 @@
     "rating": 94,
     "battingStyle": "Right-hand Bat",
     "ballingStyle": "Right-arm Fast",
-    "price": 1700000,
+    "price": 17000,
     "playerImg": "https://i.ibb.co/zh6rFvYL/images.webp"
   },
   {
@@ -46,7 +46,7 @@
     "rating": 92,
     "battingStyle": "Right-hand Bat",
     "ballingStyle": "Right-arm Leg Break",
-    "price": 1550000,
+    "price": 15500,
     "playerImg": "https://i.ibb.co/zh6rFvYL/images.webp"
   }
 ]

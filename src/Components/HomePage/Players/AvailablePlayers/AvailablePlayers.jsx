@@ -1,6 +1,6 @@
 import Card from "../../../Ui/Card";
 
-const AvailablePlayers = ({ players }) => {
+const AvailablePlayers = ({ players, setCoin, coin }) => {
 
   return (
     <>
@@ -9,7 +9,7 @@ const AvailablePlayers = ({ players }) => {
 
           return (
             <>
-              <Card player={player} />
+              <Card player={player} setCoin={setCoin} coin={coin} />
             </>
           );
         })}
