@@ -1,7 +1,7 @@
 
 const Banner = () => {
     return (
-        <div className='min-h-[60vh] bg-linear-to-r from-purple-500 to-purple-300'>
+        <div className='min-h-[60vh] bg-linear-to-r from-purple-500 to-purple-300 container mx-auto mt-10 rounded-3xl p-10'>
             Banner
         </div>
     );
