@@ -1,0 +1,52 @@
+[
+  {
+    "playerName": "Virat Kohli",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "rating": 95,
+    "battingStyle": "Right-hand Bat",
+    "ballingStyle": "Right-arm Medium",
+    "price": 1500000,
+    "playerImg": "https://i.ibb.co/zh6rFvYL/images.webp"
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerCountry": "Pakistan",
+    "playerType": "Batsman",
+    "rating": 93,
+    "battingStyle": "Right-hand Bat",
+    "ballingStyle": "Right-arm Off Break",
+    "price": 1400000,
+    "playerImg": "https://example.com/images/babar-azam.jpg"
+  },
+  {
+    "playerName": "Ben Stokes",
+    "playerCountry": "England",
+    "playerType": "All-rounder",
+    "rating": 91,
+    "battingStyle": "Left-hand Bat",
+    "ballingStyle": "Right-arm Fast Medium",
+    "price": 1600000,
+    "playerImg": "https://example.com/images/ben-stokes.jpg"
+  },
+  {
+    "playerName": "Jasprit Bumrah",
+    "playerCountry": "India",
+    "playerType": "Bowler",
+    "rating": 94,
+    "battingStyle": "Right-hand Bat",
+    "ballingStyle": "Right-arm Fast",
+    "price": 1700000,
+    "playerImg": "https://example.com/images/jasprit-bumrah.jpg"
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerCountry": "Afghanistan",
+    "playerType": "All-rounder",
+    "rating": 92,
+    "battingStyle": "Right-hand Bat",
+    "ballingStyle": "Right-arm Leg Break",
+    "price": 1550000,
+    "playerImg": "https://example.com/images/rashid-khan.jpg"
+  }
+]
